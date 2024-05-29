@@ -4,8 +4,8 @@ Este es un proyecto ficticio para un Estudio de Fotografía llamado CW Fotograf�
 
 ## Tecnologías Utilizadas
 
-- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML
-- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20"> HTML
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20"> CSS
 
 ## Captura de Pantalla
 
