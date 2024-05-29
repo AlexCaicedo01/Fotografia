@@ -13,4 +13,4 @@ Este es un proyecto ficticio para un Estudio de Fotograf√≠a llamado CW Fotograf√
 
 ## Autor
 
-[AlexCaicedo1](https://github.com/AlexCaicedo1)
+[AlexCaicedo1](https://github.com/AlexCaicedo01)
